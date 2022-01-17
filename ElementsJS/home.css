@@ -1,0 +1,121 @@
+
+.media{
+	background-color: red;
+	text-align: left;
+	height: 500px;
+	color:white;
+	font-family: Signika;
+}
+.logo{
+	background:red;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	height: 100px;
+}
+.graficlogo{
+	padding: 15px;
+	max-width: 100%;
+	box-sizing: border-box;
+	height: 100px;
+}
+.text1{
+	font-size: 60px;
+	font-weight: 10px;
+    margin-right: 150px
+}
+.media-body{
+	margin-top: 50px;
+	margin-left: 150px;
+}
+#Input{
+	width: 400px;
+}
+iframe{
+	margin: auto;
+	margin-right: 70px;
+	height: 300px;
+	width: 500px;
+}
+.text2{
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+	font-family: Crete Round;
+}
+.col-sn{
+	display: inline-block;
+	width: 20%;
+	margin: auto;
+	text-align: center;
+}
+
+.card-img{
+	height: 200px
+}
+button{
+	width: 200px;
+	height: 40px;
+	display: block;
+	margin: 0 auto;
+	background-color: red;
+	border: none;
+	color: white;
+	margin-top:10px;
+}
+#media1{
+	height: 270px;
+	margin-top: 20px;
+	background-color: white;
+	color: black;
+	border-top: 1px solid grey;
+}
+#text12{
+	font-family: roboto;
+	font-size: 20px;
+	color: red;
+}
+#img1{
+	margin: auto;
+	margin-right: 120px;
+	width: 370px;
+	height: 200px;
+}
+.row1{
+	display: inline-block;
+	margin-left: 110px;
+	margin-right: 80px;
+}
+nav{
+	border: solid;
+	border-color: red;
+
+}
+nav a:hover{
+	background-color: red;
+}
+.container1{
+	background-color: red;
+	color: white;
+	margin: auto;
+}
+.row1 h3{
+	font-size: 30px;
+}
+.row1 h5{
+	font-size: 17px;
+}
+.form-group a{
+	margin-top: 40px;
+	background-color: red;
+}
+#color{
+	color: red;
+}
+#color1{
+	color: white;
+}
+#galery{
+	margin-left: 650px;
+	margin-top: 25px;
+}

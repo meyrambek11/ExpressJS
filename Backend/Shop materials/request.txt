@@ -1,0 +1,48 @@
+/*{
+    "name": "shirt",
+    "description": "shirt for day independent",
+    "richDescription": "descipt",
+    "image": "shop/image.jpg",
+    "brand": "Kadisa",
+    "price": 9861,
+    "category": "61e012d653f75de88a8b22cc",
+    "countInStock": 35,
+    "rating": 5,
+    "numReviews": 22,
+    "isFeatured": true
+}*/
+
+{
+    "name": "Meyrambek",
+    "email": "m_kadyrbekov@bk.ru",
+    "passwordHash": "Astana97$",
+    "phone": "87781616845",
+    "isAdmin": true,
+    "street": "Tolstogo",
+    "apartment": "46",
+    "zip": "1151",
+    "city": "Uralsk",
+    "coutry": "Kazakhstan"
+}
+
+{
+    "orderItems": [
+        {
+            "quantity": 3
+            "product": "61e041d8755fa2071750da9a"
+        }
+        {
+            "quantity": 2
+            "product": "61e071a2ac371c8cc3fc6ce1"
+        }
+    ],
+    "shippingAddress1" : "Tolstogo, 22",
+    "shippingAddress2": "Block A",
+    "city": "Almaty",
+    "zip": "0000",
+    "country": "Kazakhstan",
+    "phone": "87781616845",
+    "user": "61e165c2a48a9434677750b6"
+}
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MWUxNzFiNDA4OWFhYTFkNzdiNTc5MDEiLCJpYXQiOjE2NDIxNzUzMjksImV4cCI6MTY0MjI2MTcyOX0.Rgb-5sDaZM7B6YpXzo79VHtkRPF9AFe0-Xd-o_jQCDo
